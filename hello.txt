@@ -9,8 +9,8 @@ hello world
 <<<<<<< HEAD
 hello world  
 hello world  
-hello world  09872345 
-hello world  87248752
+hello world   
+hello world
 =======
 hello world  ieoweur
 hello world  nxha931
